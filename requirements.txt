@@ -1,0 +1,4 @@
+psutil
+pycaw
+screen-brightness-control
+comtypes
